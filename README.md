@@ -19,6 +19,6 @@ easy way to add these emoji: use [Slack Emoji Uploader](https://chrome.google.co
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/7b722e24-2764-4441-96f5-dc47a8a898e3)|zzz||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/7e361532-ab2f-4b59-a8c7-07a78b25aec6)|zzzz||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/d5724382-3ad4-4af3-b946-d06b464944d7)|nep||||||||||||||||||||||||||||||||
-|![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/8e4be392-26ad-4085-b3e0-36e5bb4023a8)|nep||||||||||||||||||||||||||||||||
+|![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/8e4be392-26ad-4085-b3e0-36e5bb4023a8)|nep2||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/e179da56-3c8b-4633-b957-d1f0a21491dd)|oh||||||||||||||||||||||||||||||||
 

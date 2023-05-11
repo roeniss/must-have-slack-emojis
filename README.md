@@ -7,7 +7,7 @@ easy way to add these emoji: use [Slack Emoji Uploader](https://chrome.google.co
 ---
 
 
-|image|name| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|image|sample name| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/b64dc635-cf3a-41d8-877c-56ffe56c23b6)|notion||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/e393d828-d0fc-44b9-ad06-3508f84bbce3)|pepe-sad|||||||||||||||||||||||||||||||||

@@ -21,4 +21,4 @@ easy way to add these emoji: use [Slack Emoji Uploader](https://chrome.google.co
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/d5724382-3ad4-4af3-b946-d06b464944d7)|nep||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/8e4be392-26ad-4085-b3e0-36e5bb4023a8)|nep2||||||||||||||||||||||||||||||||
 |![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/e179da56-3c8b-4633-b957-d1f0a21491dd)|oh||||||||||||||||||||||||||||||||
-
+|![image](https://github.com/roeniss/must-have-slack-emojis/assets/26613280/40c7f900-bd4a-4b66-a015-6e88f67cdb93)|loading||||||||||||||||||||||||||||||||
